@@ -14,7 +14,8 @@
 </head>
 <body>
   <h1>Gerador de Scripts para Blocks Fruits</h1>
-  <textarea id="inputText" placeholder="Descreva o script que deseja..."></textarea>
+  <textarea id="inputText" 
+placeholder="Descreva o script que deseja..."></textarea>
   <button id="generateBtn">Gerar Script</button>
   <pre id="outputScript"></pre>
 
